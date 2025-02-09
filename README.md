@@ -7,7 +7,6 @@ Le jeu intègre également un système de classement en temps réel, la gestion 
 
 ## 🚀 Fonctionnalités
 * Scénarios multiples avec différentes ambiances et niveaux de difficulté.
-  
 * Participation avec ou sans compte :
   * Sans compte : accès aux scénarios et possibilité de jouer librement.
   * Avec compte : suivi des scores, classement personnalisé et historique des parties.
