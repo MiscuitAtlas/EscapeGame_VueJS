@@ -18,18 +18,13 @@ Historique des parties jouées pour chaque utilisateur connecté.
 
 Effets visuels et sonores immersifs.
 
-Intégration de ChatGPT pour fournir des conseils personnalisés en cours de jeu.
-
-Interface utilisateur responsive grâce à Vue.js et Bootstrap.
-
-Base de données sécurisée pour la gestion des comptes utilisateurs et des scores (MySQL ou MongoDB).
+Base de données sécurisée pour la gestion des comptes utilisateurs et des scores MySQL.
 
 ## 🛠️ Technologies utilisées
 Frontend : Vue.js, TypeScript, Bootstrap
 Backend : PHP
-Base de données : MySQL/MariaDB ou MongoDB
+Base de données : MySQL
 Autres outils :
-Intégration de ChatGPT pour une assistance en jeu.
 Gestion des comptes utilisateurs avec suivi des scores et historique.
 Système de classement en temps réel.
 
