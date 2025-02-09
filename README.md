@@ -27,12 +27,6 @@ Backend : PHP
 
 Base de données : MySQL
 
-Autres outils :
-
-Gestion des comptes utilisateurs avec suivi des scores et historique.
-
-Système de classement en temps réel.
-
 ## 📦 Installation et configuration
 Cloner le projet :
 ```
