@@ -76,11 +76,11 @@ Classement : Affichage en temps réel du top des joueurs pour chaque scénario.
 
 Historique des parties : Accessible pour chaque utilisateur afin de suivre ses performances passées.
 
-##📧 Contact
+## 📧 Contact
 Pour toute question ou suggestion, contactez-moi :
 
-Nom : [Maxence]
+Nom : Maxence
 
-Email : [maxencefran@gmail.com]
+Email : maxencefran@gmail.com
 
-GitHub : [https://github.com/MiscuitAtlas]
+GitHub : https://github.com/MiscuitAtlas
