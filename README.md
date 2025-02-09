@@ -25,31 +25,31 @@ Le jeu intègre également un système de classement en temps réel, la gestion 
 * Base de données sécurisée pour la gestion des comptes utilisateurs et des scores MySQL.
 
 ## 🛠️ Technologies utilisées
-Frontend : Vue.js, JavaScript, HTML, CSS
+* Frontend : Vue.js, JavaScript, HTML, CSS
 
-Backend : PHP
+* Backend : PHP
 
-Base de données : MySQL
+* Base de données : MySQL
 
 ## 📦 Installation et configuration
-Cloner le projet :
+1. Cloner le projet :
 ```
 git clone https://github.com/MiscuitAtlas/EscapeGame_VueJS
 cd EscapeGame_VueJS
 ```
-Installer les dépendances :
+2. Installer les dépendances :
 ```
 npm install
 ```
-Lancer le serveur de développement :
+3. Lancer le serveur de développement :
 ```
 npm run serve
 ```
-Configurer la base de données :
+4. Configurer la base de données :
 
 Importer le fichier database.sql dans votre base de données.
 
-Configurer les variables d’environnement :
+5. Configurer les variables d’environnement :
 ```
 VUE_APP_API_URL=http://localhost:8000
 DB_HOST=localhost
@@ -59,24 +59,26 @@ DB_PASS=password
 ```
 
 ## 🎮 Instructions de jeu
-Créer un compte ou se connecter.
+1. Créer un compte ou se connecter pour profiter de toutes les fonctionnalités, ou jouer directement sans compte.
 
-Choisir un scénario parmi ceux proposés.
+2. Choisir un scénario parmi ceux proposés.
 
-Résoudre les énigmes dans le temps imparti.
+3. Résoudre les énigmes dans le temps imparti.
 
-Utiliser les indices en cas de besoin (avec pénalité de score).
+4. Utiliser les indices en cas de besoin (avec pénalité de score).
 
-Terminer le jeu pour voir votre score et votre position dans le classement.
+5. Terminer le jeu pour voir votre score et votre position dans le classement.
 
 ## 📊 Classement et Historique
-Classement : Affichage en temps réel du top des joueurs pour chaque scénario.
+* Classement : Affichage en temps réel du top des joueurs pour chaque scénario.
 
-Historique des parties : Accessible pour chaque utilisateur afin de suivre ses performances passées.
+* Historique des parties : Accessible pour chaque utilisateur afin de suivre ses performances passées.
 
 ## 📧 Contact
 Pour toute question ou suggestion, contactez-moi :
 
-Email : maxencefran@gmail.com
+* Email : maxencefran@gmail.com
 
-GitHub : [MiscuitAtlas](https://github.com/MiscuitAtlas)
+* GitHub : [MiscuitAtlas](https://github.com/MiscuitAtlas)
+
+- Linkedin : [MiscuitAtlas](https://github.com/MiscuitAtlas)
