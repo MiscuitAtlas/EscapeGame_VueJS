@@ -7,22 +7,15 @@ Le jeu intègre également un système de classement en temps réel, la gestion 
 
 ## 🚀 Fonctionnalités
 * Scénarios multiples avec différentes ambiances et niveaux de difficulté.
-
 * Participation avec ou sans compte :
   * Sans compte : accès aux scénarios et possibilité de jouer librement.
   * Avec compte : suivi des scores, classement personnalisé et historique des parties.
-
-Système de Timer pour mettre la pression aux joueurs.
-
-Indices avec pénalité pour aider en cas de blocage.
-
-Classement en temps réel des meilleurs joueurs pour chaque scénario.
-
-Historique des parties jouées pour chaque utilisateur connecté.
-
-Effets visuels et sonores immersifs.
-
-Base de données sécurisée pour la gestion des comptes utilisateurs et des scores MySQL.
+* Système de Timer pour mettre la pression aux joueurs.
+* Indices avec pénalité pour aider en cas de blocage.
+* Classement en temps réel des meilleurs joueurs pour chaque scénario.
+* Historique des parties jouées pour chaque utilisateur connecté.
+* Effets visuels et sonores immersifs.
+* Base de données sécurisée pour la gestion des comptes utilisateurs et des scores MySQL.
 
 ## 🛠️ Technologies utilisées
 Frontend : Vue.js, JavaScript, HTML, CSS
