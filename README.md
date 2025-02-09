@@ -79,8 +79,6 @@ Historique des parties : Accessible pour chaque utilisateur afin de suivre ses p
 ## 📧 Contact
 Pour toute question ou suggestion, contactez-moi :
 
-Nom : Maxence
-
-Email : [MaxenceFrançais](maxencefran@gmail.com)
+Email : maxencefran@gmail.com
 
 GitHub : [MiscuitAtlas](https://github.com/MiscuitAtlas)
