@@ -3,10 +3,10 @@
 ## 📖 Description
 Ce projet est un Escape Game en ligne immersif, conçu pour offrir une expérience captivante à travers plusieurs scénarios et niveaux de difficulté. Chaque joueur devra résoudre des énigmes dans un temps imparti. Des indices sont disponibles, mais attention : leur utilisation entraîne des pénalités sur le score final !
 
-Le jeu intègre également un système de classement en temps réel, la gestion des comptes utilisateurs et un historique des parties.
+Le jeu intègre également un système de classement en temps réel, la gestion des comptes utilisateurs et un historique des parties. Les joueurs peuvent participer sans avoir de compte, mais certaines fonctionnalités, comme l’historique personnel et l’enregistrement du score, sont réservées aux utilisateurs connectés.
 
 ## 🚀 Fonctionnalités
-Scénarios multiples avec différentes ambiances et niveaux de difficulté.
+* Scénarios multiples avec différentes ambiances et niveaux de difficulté.
 
 Système de Timer pour mettre la pression aux joueurs.
 
