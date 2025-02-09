@@ -7,15 +7,24 @@ Le jeu intègre également un système de classement en temps réel, la gestion 
 
 ## 🚀 Fonctionnalités
 Scénarios multiples avec différentes ambiances et niveaux de difficulté.
+
 Système de Timer pour mettre la pression aux joueurs.
+
 Indices avec pénalité pour aider en cas de blocage.
+
 Classement en temps réel des meilleurs joueurs pour chaque scénario.
+
 Historique des parties jouées pour chaque utilisateur connecté.
+
 Effets visuels et sonores immersifs.
+
 Intégration de ChatGPT pour fournir des conseils personnalisés en cours de jeu.
+
 Interface utilisateur responsive grâce à Vue.js et Bootstrap.
+
 Base de données sécurisée pour la gestion des comptes utilisateurs et des scores (MySQL ou MongoDB).
-🛠️ Technologies utilisées
+
+## 🛠️ Technologies utilisées
 Frontend : Vue.js, TypeScript, Bootstrap
 Backend : PHP
 Base de données : MySQL/MariaDB ou MongoDB
