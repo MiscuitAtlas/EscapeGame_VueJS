@@ -48,6 +48,7 @@ Lancer le serveur de développement :
 npm run serve
 ```
 Configurer la base de données :
+
 Importer le fichier database.sql dans votre base de données.
 
 Configurer les variables d’environnement (.env) :
@@ -61,17 +62,25 @@ DB_PASS=password
 
 ## 🎮 Instructions de jeu
 Créer un compte ou se connecter.
+
 Choisir un scénario parmi ceux proposés.
+
 Résoudre les énigmes dans le temps imparti.
+
 Utiliser les indices en cas de besoin (avec pénalité de score).
+
 Terminer le jeu pour voir votre score et votre position dans le classement.
 
 ## 📊 Classement et Historique
 Classement : Affichage en temps réel du top des joueurs pour chaque scénario.
+
 Historique des parties : Accessible pour chaque utilisateur afin de suivre ses performances passées.
 
 ##📧 Contact
 Pour toute question ou suggestion, contactez-moi :
+
 Nom : [Maxence]
+
 Email : [maxencefran@gmail.com]
+
 GitHub : [https://github.com/MiscuitAtlas]
