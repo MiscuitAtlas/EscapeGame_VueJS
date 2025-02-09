@@ -1,4 +1,4 @@
-# 🔐 Escape Game en ligne - Projet Vue.js, JavaScript, HTML, CSS, PHP, MySQL
+# 🔐 Escape Game en ligne - Projet Vue.js, JavaScript, CSS, PHP, MySQL
 
 ## 📖 Description
 Ce projet est un Escape Game en ligne immersif, conçu pour offrir une expérience captivante à travers plusieurs scénarios et niveaux de difficulté. Chaque joueur devra résoudre des énigmes dans un temps imparti. Des indices sont disponibles, mais attention : leur utilisation entraîne des pénalités sur le score final !
@@ -27,7 +27,7 @@ Accéder au jeu en ligne : [Escape Game en ligne](http://miscuitatlas-escapegame
 * Base de données sécurisée pour la gestion des comptes utilisateurs et des scores MySQL.
 
 ## 🛠️ Technologies utilisées
-* Frontend : Vue.js, JavaScript, HTML, CSS
+* Frontend : Vue.js, JavaScript, CSS
 
 * Backend : PHP
 
