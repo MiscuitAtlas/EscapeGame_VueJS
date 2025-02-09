@@ -46,9 +46,9 @@ npm install
 npm run serve
 ```
 4. Configurer la base de données :
-
+```
 Importer le fichier database.sql dans votre base de données.
-
+```
 5. Configurer les variables d’environnement :
 ```
 VUE_APP_API_URL=http://localhost:8000
@@ -81,4 +81,4 @@ Pour toute question ou suggestion, contactez-moi :
 
 * GitHub : [MiscuitAtlas](https://github.com/MiscuitAtlas)
 
-- Linkedin : [MiscuitAtlas](https://github.com/MiscuitAtlas)
+- Linkedin : [MaxenceFrançais](https://www.linkedin.com/in/maxence-fran%C3%A7ais-a039a2307/)
