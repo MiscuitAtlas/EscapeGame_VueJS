@@ -9,7 +9,7 @@ Le jeu intègre également un système de classement en temps réel, la gestion 
 * Scénarios multiples avec différentes ambiances et niveaux de difficulté.
   
 * Participation avec ou sans compte :
-  * Sans compte : accès aux scénarios et possibilité de jouer librement.
+  * Sans compte : accès aux scénarios, possibilité de jouer librement et visualisation du classement en temps réel.
   * Avec compte : suivi des scores, classement personnalisé et historique des parties.
 
 * Système de Timer pour mettre la pression aux joueurs.
