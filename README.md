@@ -36,8 +36,8 @@ Système de classement en temps réel.
 ## 📦 Installation et configuration
 Cloner le projet :
 ```
-git clone https://github.com/username/escape-game.git
-cd escape-game
+git clone https://github.com/MiscuitAtlas/EscapeGame_VueJS
+cd EscapeGame_VueJS
 ```
 Installer les dépendances :
 ```
@@ -51,7 +51,7 @@ Configurer la base de données :
 
 Importer le fichier database.sql dans votre base de données.
 
-Configurer les variables d’environnement (.env) :
+Configurer les variables d’environnement :
 ```
 VUE_APP_API_URL=http://localhost:8000
 DB_HOST=localhost
@@ -81,6 +81,6 @@ Pour toute question ou suggestion, contactez-moi :
 
 Nom : Maxence
 
-Email : maxencefran@gmail.com
+Email : [MaxenceFrançais](maxencefran@gmail.com)
 
-GitHub : https://github.com/MiscuitAtlas
+GitHub : [MiscuitAtlas](https://github.com/MiscuitAtlas)
