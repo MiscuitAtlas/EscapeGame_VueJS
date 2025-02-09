@@ -81,4 +81,4 @@ Pour toute question ou suggestion, contactez-moi :
 
 * GitHub : [MiscuitAtlas](https://github.com/MiscuitAtlas)
 
-- Linkedin : [MaxenceFrançais](https://www.linkedin.com/in/maxence-fran%C3%A7ais-a039a2307/)
+* Linkedin : [MaxenceFrançais](https://www.linkedin.com/in/maxence-fran%C3%A7ais-a039a2307/)
