@@ -22,10 +22,15 @@ Base de données sécurisée pour la gestion des comptes utilisateurs et des sco
 
 ## 🛠️ Technologies utilisées
 Frontend : Vue.js, TypeScript, Bootstrap
+
 Backend : PHP
+
 Base de données : MySQL
+
 Autres outils :
+
 Gestion des comptes utilisateurs avec suivi des scores et historique.
+
 Système de classement en temps réel.
 
 ## 📦 Installation et configuration
