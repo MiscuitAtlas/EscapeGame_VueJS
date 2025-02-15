@@ -5,9 +5,9 @@ Ce projet est un Escape Game en ligne immersif, conçu pour offrir une expérien
 
 Le jeu intègre également un système de classement en temps réel, la gestion des comptes utilisateurs et un historique des parties. Les joueurs peuvent participer sans avoir de compte, mais certaines fonctionnalités, comme l’historique personnel et l’enregistrement du score, sont réservées aux utilisateurs connectés.
 
-Accéder au jeu en ligne : [Escape Game en ligne](http://miscuitatlas-escapegame.rf.gd/)
+👉 Accéder au jeu en ligne : [Escape Game en ligne](http://miscuitatlas-escapegame.rf.gd/)
 
-## 🚀 Fonctionnalités
+## 📌 Fonctionnalités
 * Scénarios multiples avec différentes ambiances et niveaux de difficulté.
   
 * Participation avec ou sans compte :
