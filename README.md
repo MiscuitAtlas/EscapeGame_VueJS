@@ -1,4 +1,4 @@
-# 🔐 Escape Game en ligne - Projet Vue.js, JavaScript, CSS, PHP, MySQL
+# 🔐 Escape Game en ligne - Projet Vue.js, JavaScript, CSS, PHP et MySQL
 
 ## 📖 Description
 Ce projet est un Escape Game en ligne immersif, conçu pour offrir une expérience captivante à travers plusieurs scénarios et niveaux de difficulté. Chaque joueur devra résoudre des énigmes dans un temps imparti. Des indices sont disponibles, mais attention : leur utilisation entraîne des pénalités sur le score final !
